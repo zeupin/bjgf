@@ -1,0 +1,18 @@
+.bjgf { box-sizing: border-box; text-align: center; font-size: 1rem; line-height: 2; border: 1px solid #c0c0c0; }
+.bjgf * { box-sizing: border-box; }
+.bjgf em, .bjgf .em { font-size: 1.5em; font-style: normal; font-weight: bold; }
+
+.bjgf-h1 { font-size: 1.5rem; line-height: 2; font-weight: bold; margin: 0; padding: 0; color: #333; }
+
+.bjgf-h2 { font-size: 1.1rem; line-height: 2; font-weight: bold; margin: 0; padding: 0; color: #555; }
+
+.bjgf-desc { color: #888; margin: 0 auto 0.5em auto; }
+
+ul.bjgf-list { list-style: none; margin: 5px 0; padding: 0; }
+ul.bjgf-list > li { display: inline-block; width: 30%; }
+
+.bjgf-line { size: 1px; height: 1px; color: #f0f0f0; width: 80%; margin: 0 auto; }
+
+.bjgf-price { font-size: 2em; color: #ff0000; }
+
+.bjgf-btn, a.bjgf-btn { display: inline-block; text-decoration: none; font-size: 1rem; line-height: 2.5; background-color: #074C8C; color: #fff; padding: 0 1rem; margin: 1rem; }
